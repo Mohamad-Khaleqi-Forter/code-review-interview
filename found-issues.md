@@ -123,8 +123,8 @@ Below are some quick and easy issues that most candidates are expected to identi
         <td>17</td>
         <td>Duplicate usage of <strong>rates["USD"]</strong></td>
         <td>utils.ts</td>
-        <td><input type="checkbox"></td>
-        <td><input type="checkbox"></td>
+        <td>[ ]</td>
+        <td>[ ]</td>
     </tr>
     
 </table>
@@ -137,6 +137,7 @@ Below are some quick and easy issues that most candidates are expected to identi
     <tr>
         <th>#</th>
         <th>Issue</th>
+         <th>Scope</th>
         <th>Found</th>
         <th>Explained</th>
     </tr>
